@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+
+.stickmanImage {
+    max-width: 80%;
+    height: auto;
+    padding: 10%;
+}
+
