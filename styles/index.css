@@ -1,12 +1,24 @@
-body {
+#landPage {
     display: flex;
     justify-content: center;
 }
 
-
-.stickmanImage {
-    max-width: 80%;
-    height: auto;
-    padding: 10%;
+#startAnim {
+    width: 6.25%;
+    padding-bottom: 0.5%;
+    padding-top: 0.5%;
 }
 
+#StickmanContainer {
+    display: flex;
+    /* flex-wrap: nowrap; */
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.stickmanImage {
+    max-width: 25%;
+    padding: 10%;
+}
