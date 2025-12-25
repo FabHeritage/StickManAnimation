@@ -1,9 +1,12 @@
 #landPage {
     display: flex;
     justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 #startAnim {
+    max-height: 50%;
     width: 6.25%;
     padding-bottom: 0.5%;
     padding-top: 0.5%;
